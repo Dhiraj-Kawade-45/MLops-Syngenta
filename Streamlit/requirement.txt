@@ -1,9 +1,9 @@
-streamlit==1.40.1
 numpy
-pandas
-matplotlib
 scikit-learn
 altair
-textblob
-wordcloud==1.9.4
 seaborn
+streamlit
+textblob
+wordcloud
+matplotlib
+pandas
