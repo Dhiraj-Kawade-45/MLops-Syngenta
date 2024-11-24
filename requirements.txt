@@ -7,3 +7,4 @@ textblob
 wordcloud
 matplotlib
 pandas
+plotly
